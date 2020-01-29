@@ -1,4 +1,5 @@
 {
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "d:\\JF\\Documents\\Programming\\studing\\recipe-app-api\\venv\\Scripts\\python.exe"
 }
