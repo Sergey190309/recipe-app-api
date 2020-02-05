@@ -84,6 +84,4 @@ class Model_test(TestCase):
 
         exp_path = f"upload/recipe/{uuid}.jpg"
 
-        print("\nfile_path", file_path)
-        print("exp_path ", exp_path)
         self.assertEqual(file_path, exp_path)
